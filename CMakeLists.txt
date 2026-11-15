@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.16)
+project(RiverTrace LANGUAGES CXX)
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+add_executable(rivertrace src/main.cpp src/api.cpp src/loader.cpp src/analysis.cpp src/graph.cpp)

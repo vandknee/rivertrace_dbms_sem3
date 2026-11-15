@@ -1,0 +1,8 @@
+name,parent
+Ganga,
+Bhagirathi,Ganga
+Alaknanda,Ganga
+Mandakini,Alaknanda
+Yamuna,Ganga
+Betwa,Yamuna
+Gomti,Ganga
